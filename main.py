@@ -1,1 +1,2 @@
-print("HElLO woRlD")
+print("HElLO woRD")
+print("HI")
